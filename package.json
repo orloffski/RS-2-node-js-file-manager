@@ -4,7 +4,7 @@
 	"type": "module",
 
 	"scripts" : {
-		"start" : "node ./start.js",
-		"dev" : "node ./start.js --username=Anonimous"
+		"start" : "node ./src/start.js",
+		"dev" : "node ./src/start.js --username=Zuzka"
 	}
 }
